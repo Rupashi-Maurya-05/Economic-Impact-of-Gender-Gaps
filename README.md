@@ -17,7 +17,7 @@ A data-driven research project analyzing the impact of gender equality on econom
 * `results/` → Graphs, statistical results, and final reports
 
 ## 📸 Dashboard Preview
-<img src="./Screenshot 2025-08-30 181348.png" alt="Power BI Dashboard" width="700"/>
+<img src="./dashboard.png" alt="Power BI Dashboard" width="700"/>
 
 ## 📌 Results & Insights
 
